@@ -27,5 +27,14 @@ I'm Nyiko Mnisi, a 22-year-old final year Bachelor of ICT student from South Afr
   <img src="https://github-readme-stats.vercel.app/api?username=NyikoMnisii&show_icons=true&theme=light" alt="GitHub Stats"/>
 </p>
 
+### 🚀 Frameworks & Technologies:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Jetpack Compose"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure DevOps"/>
+</p>
+
+
 
 Feel free to connect with me or check out my repositories. Let's collaborate and build something amazing together!
