@@ -24,6 +24,11 @@ I'm Nyiko Mnisi, a 22-year-old final year Bachelor of ICT student from South Afr
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyikoMnisii&layout=compact&theme=light" alt="Top Languages"/>
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyikoMnisii&show_icons=true&theme=light" alt="GitHub Stats"/>
 </p>
 
