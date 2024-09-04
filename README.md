@@ -19,16 +19,16 @@ I'm Nyiko Mnisi, a 22-year-old final year Bachelor of ICT student from South Afr
 </p>
 
 ### 🔥 My GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyikoMnisii&theme=light" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NyikoMnisii&show_icons=true&theme=light" alt="GitHub Stats"/>
 </p>
 
 ### 💻 Top Languages:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyikoMnisii&layout=compact&theme=light" alt="Top Languages"/>
 </p>
 
@@ -39,6 +39,11 @@ I'm Nyiko Mnisi, a 22-year-old final year Bachelor of ICT student from South Afr
   <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Jetpack Compose"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
   <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure DevOps"/>
+</p>
+
+### 👀 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NyikoMnisii&color=blue" alt="Profile Views"/>
 </p>
 
 
