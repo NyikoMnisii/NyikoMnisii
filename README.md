@@ -42,7 +42,7 @@ I'm Nyiko Mnisi, a 22-year-old final year Bachelor of ICT student from South Afr
 </p>
 
 ### 👀 Profile Views:
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=NyikoMnisii&color=blue" alt="Profile Views"/>
 </p>
 
