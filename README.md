@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Nyiko Mnisi, a 23-year-old Bachelor of ICT Graduate from South Africa, studied at the University of Mpumalanga. I love exploring the endless possibilities of technology and am always open to collaboration and eager to learn and grow.
+I'm Nyiko Mnisi, a Bachelor of ICT Graduate from South Africa, studied at the University of Mpumalanga. I love exploring the endless possibilities of technology and am always open to collaboration and eager to learn and grow.
 
 ### 🌟 What I'm Interested In:
 - 🎨 Graphic Design
